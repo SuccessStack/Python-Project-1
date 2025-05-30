@@ -3,6 +3,10 @@
 This project uses a supervised machine learning approach to predict whether a loan application will be approved based on customer details such as income, employment status, credit history, and more.
 
 ## Dataset
+- **Source:** [Kaggle Loan Prediction Dataset](https://www.kaggle.com/datasets/ninzaami/loan-predication)
+
+
+---
 
 The dataset includes the following features:
 - Gender
